@@ -1,2 +1,3 @@
 <h1>Bootstrapangulartutorial</h1>
-<p>This tutorial is demo bootstrap modal </p>
+<p>This demo includes bootstrap card , bootstrap modal , responsive web </p>
+
